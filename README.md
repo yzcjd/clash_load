@@ -4,7 +4,7 @@
 
 #### 测速链接已改为 https://www.youtube.com 所以显示延迟较高，可随意修改。
 
-#### 如改为 Google、GitHub、Twitter官网。另：去掉s可降延迟。
+#### 如改为 Google、GitHub、Twitter官网。另：去掉 s 可降延迟。
 
 Clash：http://www.gstatic.com/generate_204
 
