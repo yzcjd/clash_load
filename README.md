@@ -4,7 +4,7 @@
 
 ### 可能在每月前两天更新，忘了更新就看另一个项目：https://github.com/yzcjd/jiedian 。
 
-#### 测速链接已改为 https://www.youtube.com 所以显示延迟较高，可随意修改。
+#### 测速链接已改为 https://www.googlevideo.com 对应本人日常看 youtube，显示延迟较高，可自行修改。
 
 #### 如改为 Google、GitHub、Twitter 等官网。另：去掉 s 可降延迟。
 
